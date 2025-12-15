@@ -19,7 +19,7 @@ const principles = [
       "Mastery demands obsession.",
       "No leverage exists without mastery.",
       "Choose one path. One skill. One goal. And go deep.",
-      "Take it from me you'll never succeed unless you focus on one thing first!"
+      "Take it from me; you'll never succeed unless you focus on one thing first!"
     ]
   },
   {
