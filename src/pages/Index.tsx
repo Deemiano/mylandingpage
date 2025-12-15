@@ -49,7 +49,7 @@ const principles = [
       "Urgency creates momentum.",
       "Discipline preserves it when motivation fades.",
       "Consistency compounds it over time until it second nature.",
-      "Simple!"
+      "Money loves speed. The faster you act on an idea, the quicker you learn, adapt, and capitalize on opportunities. Poverty loves waiting, overthinking, missed chances, and indecision. Speed doesn't mean recklessness, it means execution with urgency discipline and consistency. Either take the risk or work for someone who does!"
     ]
   },
   {
@@ -141,7 +141,10 @@ const Index = () => {
           <p className="mt-6 font-display text-xl italic text-muted-foreground md:text-2xl">
             — Dennis Miano
           </p>
-          <div className="mt-8 h-px w-16 mx-auto bg-gradient-to-r from-transparent via-primary/50 to-transparent" />
+        <div className="mt-8 h-px w-16 mx-auto bg-gradient-to-r from-transparent via-primary/50 to-transparent" />
+          <p className="mt-12 font-body text-base text-muted-foreground md:text-lg">
+            Remember: Your purpose is not what you do. It's what happens to people when you do what you do.
+          </p>
         </div>
       </footer>
     </main>
