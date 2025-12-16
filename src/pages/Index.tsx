@@ -48,7 +48,7 @@ const principles = [
     content: [
       "Urgency creates momentum.",
       "Discipline preserves it when motivation fades.",
-      "Consistency compounds it over time until it second nature.",
+      "Consistency compounds it over time until it pays off.",
       "Money loves speed. The faster you act on an idea, the quicker you learn, adapt, and capitalize on opportunities. Poverty loves waiting, overthinking, missed chances, and indecision. Speed doesn't mean recklessness, it means execution with urgency discipline and consistency. Either take the risk or work for someone who does!"
     ]
   },
